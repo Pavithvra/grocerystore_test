@@ -1,0 +1,1 @@
+Its a Grocery web application using HTML, CSS, JS, PHP and MYSQL which allows user to purchase grocery online. Here the admin has the access to add/delete products, catagories and delivery partners. He can also views the order status.
